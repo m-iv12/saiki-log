@@ -12,6 +12,15 @@
   "watch:@Oriens_HERO:",
   "watch:UCX7YkU9nEeaoZbkVLVajcMg:MECHATU-A"
  ],
- "own_name": "佐伯イッテツ",
- "channels": {}
+ "own_name": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+ "channels": {
+  "@SaikiIttetsu": [
+   "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+   "UUy8P3o5XlMpJGQY4WugzdNA"
+  ],
+  "@KoyanagiRou": [
+   "小柳ロウ / Koyanagi Rou【にじさんじ】",
+   "UU6WFKwYptsxVue56Lx218vg"
+  ]
+ }
 }
