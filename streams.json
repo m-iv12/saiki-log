@@ -13430,5 +13430,19 @@
   "own": false,
   "game": "同時視聴",
   "collabs": []
+ },
+ {
+  "id": "Oh3ZwqxeGYI",
+  "title": "【ほぼ初見part01】真珠じゃなくてパール【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-10-19T10:29:46Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=Oh3ZwqxeGYI",
+  "thumb": "https://i.ytimg.com/vi/Oh3ZwqxeGYI/mqdefault_live.jpg",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "ほぼ初見part01",
+  "collabs": []
  }
 ]
