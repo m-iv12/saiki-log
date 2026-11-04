@@ -14720,5 +14720,19 @@
   "own": true,
   "game": "雑談",
   "collabs": []
+ },
+ {
+  "id": "cygMuKzgPmA",
+  "title": "GOOD　MORNING　EVERYONE【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-04T19:34:32Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=cygMuKzgPmA",
+  "thumb": "https://i.ytimg.com/vi/cygMuKzgPmA/mqdefault.jpg?v=6aeb8830",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "にじさんじ／佐伯イッテツ",
+  "collabs": []
  }
 ]
