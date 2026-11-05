@@ -14734,5 +14734,19 @@
   "own": true,
   "game": "にじさんじ／佐伯イッテツ",
   "collabs": []
+ },
+ {
+  "id": "5a65MlMYbnY",
+  "title": "【#にじユーフィット】豪華ゲスト？をお呼びして商品紹介します！【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-05T11:59:48Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=5a65MlMYbnY",
+  "thumb": "https://i.ytimg.com/vi/5a65MlMYbnY/mqdefault.jpg?v=6ae4127f",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "にじユーフィット",
+  "collabs": []
  }
 ]
