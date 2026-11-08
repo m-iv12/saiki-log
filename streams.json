@@ -14767,14 +14767,28 @@
   "id": "pLRq2gGtFTo",
   "title": "【たろうくんはいってきました】え？佐伯さんも…？【にじさんじ／佐伯イッテツ】",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-08T11:29:16Z",
-  "end": null,
+  "end": "2026-11-08T16:23:12Z",
   "url": "https://www.youtube.com/watch?v=pLRq2gGtFTo",
-  "thumb": "https://i.ytimg.com/vi/pLRq2gGtFTo/mqdefault.jpg?v=6af0559f",
+  "thumb": "https://i.ytimg.com/vi/pLRq2gGtFTo/mqdefault.jpg",
   "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
   "own": true,
   "game": "たろうくんはいってきました",
+  "collabs": []
+ },
+ {
+  "id": "LmCjUlcfW6w",
+  "title": "【ほぼ初見　番外編】ポリゴン来た!!!!捕まえるだけ!!!!!!【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-08T16:35:24Z",
+  "end": "2026-11-08T17:06:00Z",
+  "url": "https://www.youtube.com/watch?v=LmCjUlcfW6w",
+  "thumb": "https://i.ytimg.com/vi/LmCjUlcfW6w/mqdefault.jpg",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "ほぼ初見 番外編",
   "collabs": []
  }
 ]
