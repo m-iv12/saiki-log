@@ -14804,5 +14804,19 @@
   "own": true,
   "game": "APEX",
   "collabs": []
+ },
+ {
+  "id": "L-g3RJ_ovwA",
+  "title": "べしべし【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-10T20:30:51Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=L-g3RJ_ovwA",
+  "thumb": "https://i.ytimg.com/vi/L-g3RJ_ovwA/mqdefault.jpg?v=6af37dcb",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "にじさんじ／佐伯イッテツ",
+  "collabs": []
  }
 ]
