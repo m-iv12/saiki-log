@@ -14846,5 +14846,19 @@
   "own": false,
   "game": "その他",
   "collabs": []
+ },
+ {
+  "id": "8GWRLkbiaMk",
+  "title": "ピクリとも動けない男がここにござい【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-15T00:59:17Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=8GWRLkbiaMk",
+  "thumb": "https://i.ytimg.com/vi/8GWRLkbiaMk/mqdefault.jpg?v=6af9028a",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "にじさんじ／佐伯イッテツ",
+  "collabs": []
  }
 ]
