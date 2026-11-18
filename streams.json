@@ -14860,5 +14860,19 @@
   "own": true,
   "game": "にじさんじ／佐伯イッテツ",
   "collabs": []
+ },
+ {
+  "id": "RN2y60S7P-A",
+  "title": "【星のカービィ 夢の泉の物語】ペポポポポポポポ【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-18T09:59:40Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=RN2y60S7P-A",
+  "thumb": "https://i.ytimg.com/vi/RN2y60S7P-A/mqdefault.jpg?v=6afd6c34",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "星のカービィ 夢の泉の物語",
+  "collabs": []
  }
 ]
