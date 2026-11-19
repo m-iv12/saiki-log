@@ -14874,5 +14874,19 @@
   "own": true,
   "game": "星のカービィ 夢の泉の物語",
   "collabs": []
+ },
+ {
+  "id": "34k3wLV95lw",
+  "title": "【MIMESISコラボ】みんなであそんでみよう！【にじさんじ／佐伯イッテツ/樋口楓/九里詠太/御子神琴音】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-19T11:00:32Z",
+  "end": "2026-11-19T14:24:43Z",
+  "url": "https://www.youtube.com/watch?v=34k3wLV95lw",
+  "thumb": "https://i.ytimg.com/vi/34k3wLV95lw/mqdefault.jpg",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "MIMESISコラボ",
+  "collabs": []
  }
 ]
