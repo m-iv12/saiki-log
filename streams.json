@@ -14930,5 +14930,19 @@
   "own": true,
   "game": "AIドット絵バトル",
   "collabs": []
+ },
+ {
+  "id": "nvAQ1T6JCrA",
+  "title": "【Capcom Arcade 2nd Stadium】ヴァンパイアセイヴァーを知ろう!!【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-22T22:58:20Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=nvAQ1T6JCrA",
+  "thumb": "https://i.ytimg.com/vi/nvAQ1T6JCrA/mqdefault.jpg?v=6b03692e",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "Capcom Arcade 2nd Stadium",
+  "collabs": []
  }
 ]
