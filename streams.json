@@ -14944,5 +14944,19 @@
   "own": true,
   "game": "Capcom Arcade 2nd Stadium",
   "collabs": []
+ },
+ {
+  "id": "tBVR_buPVrY",
+  "title": "【Capcom Fighting Collection】ドォン(銅鑼)【にじさんじ／佐伯イッテツ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-23T13:58:44Z",
+  "end": "2026-11-23T16:29:32Z",
+  "url": "https://www.youtube.com/watch?v=tBVR_buPVrY",
+  "thumb": "https://i.ytimg.com/vi/tBVR_buPVrY/mqdefault.jpg",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
+  "game": "Capcom Fighting Collection",
+  "collabs": []
  }
 ]
