@@ -15006,11 +15006,11 @@
   "id": "-qkqxYq6EpA",
   "title": "【APEXコラボ】告知を担いでトリオで行くチャンピオン旅！　※佐伯支店【にじさんじ／佐伯イッテツ/叢雲カゲツ/宇佐美リト】",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-28T12:04:20Z",
-  "end": null,
+  "end": "2026-11-28T14:13:52Z",
   "url": "https://www.youtube.com/watch?v=-qkqxYq6EpA",
-  "thumb": "https://i.ytimg.com/vi/-qkqxYq6EpA/mqdefault.jpg?v=6b0ab910",
+  "thumb": "https://i.ytimg.com/vi/-qkqxYq6EpA/mqdefault.jpg",
   "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
   "own": true,
   "game": "APEX",
@@ -15026,5 +15026,19 @@
     "url": "https://www.youtube.com/watch?v=eahk4bpXsPE"
    }
   ]
+ },
+ {
+  "id": "MggAFoDtS00",
+  "title": "【歌ってみた】ココロオドル/nobodyknows+【叢雲カゲツ/佐伯イッテツ/宇佐美リト/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-29T10:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=MggAFoDtS00",
+  "thumb": "https://i.ytimg.com/vi/MggAFoDtS00/mqdefault.jpg",
+  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+  "own": false,
+  "game": "歌ってみた",
+  "collabs": []
  }
 ]

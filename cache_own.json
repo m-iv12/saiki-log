@@ -13194,11 +13194,11 @@
   "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
   "channel_id": "UCy8P3o5XlMpJGQY4WugzdNA",
   "url": "https://www.youtube.com/watch?v=-qkqxYq6EpA",
-  "thumb": "https://i.ytimg.com/vi/-qkqxYq6EpA/mqdefault.jpg?v=6b0ab910",
+  "thumb": "https://i.ytimg.com/vi/-qkqxYq6EpA/mqdefault.jpg",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-28T12:04:20Z",
-  "end": null,
+  "end": "2026-11-28T14:13:52Z",
   "own": true
  }
 }
