@@ -15003,17 +15003,28 @@
   "unit": "Oriens"
  },
  {
-  "id": "eahk4bpXsPE",
-  "title": "【APEX】マッスル仲間とエーペックス ※告知あり w/宇佐美リト/佐伯イッテツ【叢雲カゲツ/にじさんじ】",
+  "id": "-qkqxYq6EpA",
+  "title": "【APEXコラボ】告知を担いでトリオで行くチャンピオン旅！　※佐伯支店【にじさんじ／佐伯イッテツ/叢雲カゲツ/宇佐美リト】",
   "kind": "stream",
   "status": "upcoming",
   "start": "2026-11-28T12:00:00Z",
   "end": null,
-  "url": "https://www.youtube.com/watch?v=eahk4bpXsPE",
-  "thumb": "https://i.ytimg.com/vi/eahk4bpXsPE/mqdefault.jpg?v=6b0a92c1",
-  "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
-  "own": false,
+  "url": "https://www.youtube.com/watch?v=-qkqxYq6EpA",
+  "thumb": "https://i.ytimg.com/vi/-qkqxYq6EpA/mqdefault.jpg?v=6b0ab910",
+  "channel": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+  "own": true,
   "game": "APEX",
-  "collabs": []
+  "collabs": [
+   {
+    "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+    "title": "【Apex Legends】マッスルでオーダーした方々と 佐伯イッテツ 叢雲カゲツ ※告知ある【宇佐美リト/にじさんじ】",
+    "url": "https://www.youtube.com/watch?v=istcDJTdGgc"
+   },
+   {
+    "channel": "叢雲カゲツ / Murakumo Kagetsu【にじさんじ】",
+    "title": "【APEX】マッスル仲間とエーペックス ※告知あり w/宇佐美リト/佐伯イッテツ【叢雲カゲツ/にじさんじ】",
+    "url": "https://www.youtube.com/watch?v=eahk4bpXsPE"
+   }
+  ]
  }
 ]
