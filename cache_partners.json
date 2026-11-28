@@ -3383,8 +3383,8 @@
   "url": "https://www.youtube.com/watch?v=istcDJTdGgc",
   "thumb": "https://i.ytimg.com/vi/istcDJTdGgc/mqdefault.jpg?v=6b0ab8bd",
   "kind": "stream",
-  "status": "upcoming",
-  "start": "2026-11-28T12:00:00Z",
+  "status": "live",
+  "start": "2026-11-28T12:04:15Z",
   "end": null,
   "own": false,
   "source": "auto"
@@ -3398,8 +3398,8 @@
   "url": "https://www.youtube.com/watch?v=eahk4bpXsPE",
   "thumb": "https://i.ytimg.com/vi/eahk4bpXsPE/mqdefault.jpg?v=6b0a92c1",
   "kind": "stream",
-  "status": "upcoming",
-  "start": "2026-11-28T12:00:00Z",
+  "status": "live",
+  "start": "2026-11-28T12:04:25Z",
   "end": null,
   "own": false,
   "source": "auto"
